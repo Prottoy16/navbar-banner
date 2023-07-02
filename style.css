@@ -1,0 +1,14 @@
+.banner {
+    background-image:url(pexels-kobe-1516440.jpg);
+    background-position:center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+   
+}
+.header-opacity {
+    background-color:rgba(0, 0, 0, 0.3);
+}
+.banner-container {
+    height:100vh;
+}
